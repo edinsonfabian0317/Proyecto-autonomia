@@ -1,0 +1,116 @@
+version: '3.8'
+
+services:
+  analizador:
+    image: python:3.11-slim
+    container_name: valentin-ceo-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python analizador_agent.py
+    restart: unless-stopped
+
+  planificador:
+    image: python:3.11-slim
+    container_name: sofia-planificador-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python planificador_agent.py
+    restart: unless-stopped
+
+  ejecutor:
+    image: python:3.11-slim
+    container_name: camila-ejecutor-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python ejecutor_agent.py
+    restart: unless-stopped
+
+  validador:
+    image: python:3.11-slim
+    container_name: mateo-validador-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python validador_agent.py
+    restart: unless-stopped
+
+  optimizador:
+    image: python:3.11-slim
+    container_name: lucia-optimizador-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python optimizador_agent.py
+    restart: unless-stopped
+
+  coordinador:
+    image: python:3.11-slim
+    container_name: alejandro-coordinador-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python coordinador_agent.py
+    restart: unless-stopped
+
+  supervisor:
+    image: python:3.11-slim
+    container_name: valeria-supervisor-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python supervisor_agent.py
+    restart: unless-stopped
+
+  investigador:
+    image: python:3.11-slim
+    container_name: lucas-investigador-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python investigador_agent.py
+    restart: unless-stopped
+
+  desarrollador:
+    image: python:3.11-slim
+    container_name: mariana-desarrollador-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python desarrollador_agent.py
+    restart: unless-stopped
+
+  evaluador:
+    image: python:3.11-slim
+    container_name: santiago-evaluador-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python evaluador_agent.py
+    restart: unless-stopped
+
+  estratega:
+    image: python:3.11-slim
+    container_name: isabella-estratega-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python estratega_agent.py
+    restart: unless-stopped
+
+  auditor:
+    image: python:3.11-slim
+    container_name: daniel-auditor-node
+    volumes:
+      - ./agents:/app/agents
+    working_dir: /app/agents
+    command: python auditor_agent.py
+    restart: unless-stopped
+  gaston-integrador:
+    build: .
+    container_name: gaston-integrador-node
+    volumes:
+      - .:/app
+    command: python /app/agents/integrador_agent.py

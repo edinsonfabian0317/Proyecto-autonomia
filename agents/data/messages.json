@@ -1,0 +1,4304 @@
+[
+    {
+        "timestamp": "2026-10-17T03:45:05.106380",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:05.134708",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:05.170572",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:05.869497",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:06.593129",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:06.911822",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:06.954194",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:07.035499",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:07.528520",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:07.931715",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:08.207181",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:08.622829",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:08.755128",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:09.075938",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:09.117890",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:09.623357",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:10.113285",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:10.151452",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:10.249609",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:11.030881",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:11.463895",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:11.600953",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:11.796698",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:11.962587",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:12.635878",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:12.909504",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:12.946856",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:13.246442",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:13.657378",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:14.498959",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:14.622566",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:14.876498",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:15.096658",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:15.159851",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:15.205193",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:15.801971",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:15.865325",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:16.002286",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:16.384830",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:17.260739",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:17.476999",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:17.598226",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:17.948540",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:18.012690",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:18.353015",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:18.880501",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:19.115423",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:19.477274",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:19.579834",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:19.855293",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:20.003162",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:20.128409",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:20.599496",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:20.988924",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:21.062773",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:21.502608",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:21.656911",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:21.824316",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:22.594235",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:22.902934",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:22.955329",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:23.479590",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:23.678803",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:23.835436",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:23.907854",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:24.348359",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:24.672055",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:25.068103",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:25.335754",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:25.467283",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:25.872943",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:26.268127",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:27.057121",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:27.404606",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:28.605702",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:28.963413",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:29.334106",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:30.653328",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:30.685691",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:30.963289",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:31.221775",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:31.492962",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:32.033505",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:32.914934",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:34.043198",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:35.580817",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:36.034892",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:37.395876",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:41.643040",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:43.719752",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:44.043711",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:44.368755",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:44.585526",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:45.051566",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:45.964627",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:47.077815",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:48.600319",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:49.046467",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:45:50.449962",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:07.493110",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:09.536420",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:09.902644",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:10.197673",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:10.452403",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:10.866832",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:11.780725",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:12.961958",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:14.414979",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:14.864388",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:16.270668",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:46:58.973271",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:00.963346",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:01.333431",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:01.674719",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:01.983772",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:02.312495",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:03.235115",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:04.385953",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:05.847161",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:06.287432",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:07.706967",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:47:59.215447",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:01.181192",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:01.559512",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:01.930921",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:02.243920",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:02.599203",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:03.459781",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:04.624529",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:06.072881",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:06.515190",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:48:07.923584",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:47.815453",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:48.128309",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:48.435432",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:48.559994",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:48.941909",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:49.262464",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:49.547958",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:49.742318",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:50.060604",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:50.173242",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:50.432903",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:51.171550",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:51.198977",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:51.271528",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:51.568616",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:51.997909",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:52.217198",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:52.422882",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:53.453387",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:53.660010",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:53.702981",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:53.961208",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:54.133674",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:54.208941",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:54.315020",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:54.715835",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:55.388291",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:55.598780",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:55.866396",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:56.032231",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:56.634898",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:56.877349",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:56.970486",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:57.249412",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:57.805476",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:57.864685",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:57.950865",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:58.140853",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:59.191801",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:59.335982",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:59.465810",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:59.635259",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:50:59.807363",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:00.360944",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:00.625532",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:00.769775",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:01.272974",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:01.460775",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:01.557289",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:01.691350",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:02.352008",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:02.405519",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:02.724503",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:02.931217",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:03.182554",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:03.364330",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:04.041720",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:04.552218",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:04.603509",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:05.005481",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:05.228811",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:05.302804",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:05.520729",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:05.578113",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:05.909156",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:06.294835",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:06.707631",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:07.588765",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:07.836374",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:08.156484",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:08.524143",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:08.722148",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:09.160340",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:09.474722",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:09.803233",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:11.026377",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:11.505720",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:11.707096",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:12.086518",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:12.313965",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:12.667363",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:14.511527",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:15.161327",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:15.811955",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:17.658887",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:18.322893",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:18.946504",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:22.552249",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:22.861322",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:24.600893",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:25.172273",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:25.686017",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:27.580406",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:28.193539",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:28.877283",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:30.687856",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:31.509859",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:32.593965",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:48.380814",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:48.710089",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:50.414744",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:50.988798",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:51.502249",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:53.407354",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:54.015691",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:54.718745",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:56.506887",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:57.432789",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:51:58.581862",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:39.799377",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:40.146979",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:41.872643",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:42.405232",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:42.911666",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:44.838968",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:45.459104",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:46.164673",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:47.930971",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:48.924424",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:52:50.007912",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:40.683749",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:41.172960",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:42.677507",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:43.045283",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:43.374249",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:45.056034",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:45.685678",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:46.387468",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:48.176601",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:49.177819",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:53:50.258603",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:56:59.477979",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:56:59.779596",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:56:59.996446",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:00.408276",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:00.693512",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:01.134124",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:01.640786",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:01.935600",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:02.114433",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:02.695514",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:03.147675",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:03.224693",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:03.690786",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:03.796127",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:04.021986",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:04.984798",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:05.099845",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:05.184726",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:05.356690",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:05.478893",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:06.144084",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:06.377352",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:06.550469",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:07.261890",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:07.511433",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:07.806419",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:07.886543",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:08.043005",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:08.375140",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:08.750482",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:09.111448",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:09.341810",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:09.577874",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:09.788004",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:10.178555",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:10.596187",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:10.800599",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:11.060569",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:11.094728",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:11.277393",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:11.526621",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:11.668184",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:12.346176",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:12.411165",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:13.063598",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:13.505515",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:13.618862",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:13.746139",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:13.756011",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:13.970598",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:14.098391",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:14.884915",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:15.143233",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:15.353652",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:15.407606",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:15.704282",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:15.880589",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:16.149178",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:16.612626",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:16.915925",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:17.067767",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:17.490821",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:17.743682",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:18.171971",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:18.480765",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:18.565619",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:19.111469",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:19.203445",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:19.646843",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:20.159759",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:20.487965",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:20.822707",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:21.054782",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:21.952510",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:22.173207",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:22.707776",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:22.731355",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:23.135552",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:24.232860",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:24.920251",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:25.876125",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:26.797517",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:27.673612",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:28.637333",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:29.371685",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:29.748816",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:30.903888",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:33.875705",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:35.194629",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:35.787300",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:37.939592",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:38.896303",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:39.848227",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:40.695661",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:41.667423",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:42.392337",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:42.791191",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:43.924793",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:57:59.699865",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:01.022207",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:01.606289",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:03.771552",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:04.732527",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:05.676609",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:50.442960",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:51.412475",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:51.993191",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:52.317262",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:53.055686",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:53.434993",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:54.112497",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:54.574613",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:55.028436",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:55.296200",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:55.526262",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:55.821211",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:55.908536",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:56.662921",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:56.908991",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:57.112813",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:57.469332",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:57.821373",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:58.275011",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:58.408242",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:58.768097",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:58.915597",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:59.354453",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:58:59.518361",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:00.048518",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:00.284018",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:00.523390",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:00.759686",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:01.173565",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:01.495831",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:01.518758",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:02.041918",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:02.119801",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:02.225563",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:02.784735",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:03.022820",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:03.501301",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:03.616108",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:04.091475",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:04.135834",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:04.310333",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:04.801891",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:05.038165",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:05.192809",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:05.354136",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:05.995033",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:06.161949",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:06.522790",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:06.616311",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:06.910344",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:07.053338",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:07.115870",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:07.735226",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:07.806324",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:07.893508",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:08.131797",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:08.807072",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:09.124624",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:09.223877",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:09.356006",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:09.733275",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:09.807790",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:10.311661",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:10.499253",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:10.989442",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:11.371124",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:11.453835",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:12.174268",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:12.718390",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:12.938511",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:13.429978",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:14.019531",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:14.029031",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:14.909262",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:15.649388",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:15.840957",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:16.446829",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:16.734192",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:16.943238",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:18.111139",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:19.447870",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:20.112094",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:20.655262",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:21.529456",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:22.309303",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:23.441212",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:27.078801",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:28.874553",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:29.588547",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:29.993856",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:31.163952",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:32.475107",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:33.166634",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:33.799625",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:34.594265",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:35.374398",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:36.478960",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:52.922921",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:54.694982",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:55.404495",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:55.822602",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:56.997765",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:58.317383",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:58.991220",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T03:59:59.641395",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:00.413461",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:01.215591",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:02.308602",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:44.352775",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:46.193647",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:46.844248",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:47.245456",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:48.409530",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:49.757140",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:50.415118",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:51.062002",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:51.830630",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:52.656752",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:00:53.729185",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:44.587209",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:46.462130",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:47.202177",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:47.494328",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:48.632314",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:49.990860",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:50.681035",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:51.312383",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:52.048261",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:52.964914",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:01:53.954777",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:49.860542",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:50.181161",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:50.701299",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:50.819329",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:51.149518",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:51.774689",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:52.152894",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:52.233523",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:52.378386",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:52.868418",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:53.061462",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:53.484471",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:53.801353",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:53.870161",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:54.172775",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:54.235945",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:55.019595",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:55.122332",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:55.203713",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:55.628540",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:56.232590",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:56.322718",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:56.415416",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:56.545620",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:57.341865",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:57.357966",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:57.968178",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:58.011802",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:58.397148",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:58.619193",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:11:59.724660",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:00.062994",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:00.181029",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:00.731183",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:00.944553",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:01.101185",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:01.872928",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:02.118419",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:02.487374",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:02.571819",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:02.866447",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:03.326459",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:04.137264",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:04.588091",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:04.707118",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:05.022739",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:05.115117",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:05.631629",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:05.883851",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:06.399609",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:06.674517",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:06.805308",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:07.216651",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:07.604999",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:07.801193",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:07.907792",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:08.115634",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:08.252034",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:08.928832",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:09.305541",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:09.402296",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:10.000662",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:10.205495",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:10.306909",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:10.640969",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:11.158216",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:11.196859",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:11.275783",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:12.098852",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:12.325890",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:12.710588",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:13.231662",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:13.485826",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:13.960497",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:14.212381",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:14.425448",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:14.913765",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:15.891820",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:16.206277",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:16.668811",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:17.691243",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:18.128425",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:18.294687",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:20.662633",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:21.118999",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:22.525326",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:23.291889",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:24.309593",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:25.734164",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:26.516389",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:27.934370",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:29.255775",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:31.324855",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:31.495790",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:33.697083",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:34.177792",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:35.540728",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:36.352624",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:37.329208",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:51.634793",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:52.333549",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:53.753097",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:55.073613",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:57.224191",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:57.441964",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:12:59.575513",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:00.003806",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:01.383660",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:02.195448",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:03.141794",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:43.060487",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:43.760266",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:45.185474",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:46.489846",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:48.656800",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:48.937400",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:50.992302",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:51.425922",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:52.812696",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:53.665755",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:13:54.565243",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:43.305441",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:43.985615",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:45.416896",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:46.703226",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:48.913152",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:49.214154",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:51.325447",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:51.690004",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:53.053938",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:53.880526",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:14:54.782574",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:43.524858",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:44.215532",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:45.637679",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:46.931679",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:49.137844",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:49.456484",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:51.586490",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:51.918463",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:53.322366",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:54.114780",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:15:55.056894",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:43.773091",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:44.454782",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:45.866805",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:47.160470",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:49.364001",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:49.684532",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:51.843789",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:52.151583",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:53.573155",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:54.344554",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:16:55.285974",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:43.991667",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:44.674348",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:46.093419",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:47.399812",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:49.600530",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:49.932881",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:52.092459",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:52.424847",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:53.810903",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:54.605998",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:17:55.508287",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:44.222628",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:44.888805",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:46.375111",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:47.638263",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:49.811232",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:50.159943",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:52.316454",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:52.670013",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:54.057414",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:54.824328",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:18:55.722776",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:44.463579",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:45.143899",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:46.601579",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:47.865803",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:50.041554",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:50.398642",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:52.568940",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:52.924150",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:54.326604",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:55.056815",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:19:55.945971",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:44.690947",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:45.386524",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:46.835926",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:48.109464",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:50.273489",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:50.640245",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:52.799291",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:53.182167",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:54.614426",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:55.274753",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:20:56.166980",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:44.926379",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:45.659380",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:47.066955",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:48.415679",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:50.498452",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:50.875429",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:53.025223",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:53.417873",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:54.917492",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:55.499383",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:21:56.421488",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:45.160284",
+        "sender": "Isabella-Estratega",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Estratega: Estrategia general sincronizada con la visi\u00f3n directiva."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:45.878806",
+        "sender": "Santiago-Evaluador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Evaluador: Criterios de evaluaci\u00f3n y rendimiento listos."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:47.315318",
+        "sender": "Sof\u00eda-Planificador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Planificador: Planes de ejecuci\u00f3n iniciales preparados para el ciclo actual."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:48.663125",
+        "sender": "Daniel-Auditor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Auditor: Verificaci\u00f3n de seguridad y registros sin anomal\u00edas."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:50.726544",
+        "sender": "Mateo-Validador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Validador: Reglas de validaci\u00f3n y control de integridad verificadas."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:51.109370",
+        "sender": "Lucas-Investigador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Investigador: Recolectando datos contextualmente relevantes."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:53.287728",
+        "sender": "Luc\u00eda-Optimizador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Optimizador: Ajustes de rendimiento asignados a los nodos."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:53.673286",
+        "sender": "Alejandro-Coordinador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Coordinador: Flujos de trabajo inter-agentes alineados."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:55.200582",
+        "sender": "Mariana-Desarrollador",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Desarrollador: M\u00f3dulos y componentes del sistema estables."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:55.756217",
+        "sender": "Camila-Ejecutor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Ejecutor: Tareas del sistema listas para procesamiento continuo."
+    },
+    {
+        "timestamp": "2026-10-17T04:22:56.648566",
+        "sender": "Valeria-Supervisor",
+        "receiver": "Valentino-CEO",
+        "content": "Reporte de Supervisor: Monitoreo de estado y m\u00e9tricas de salud en marcha."
+    }
+]
